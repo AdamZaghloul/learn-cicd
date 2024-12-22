@@ -15,7 +15,7 @@ func TestGetRightAPIKey(t *testing.T) {
 		t.Fatalf("error getting api key: %s", err)
 	}
 
-	if getKey == realKey {
+	if getKey != realKey {
 		t.Fatalf("incorrect key")
 	}
 }

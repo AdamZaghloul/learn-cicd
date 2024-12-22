@@ -26,4 +26,4 @@ Adam's version of Boot.dev's Notely app.
 
 Testing Stats:
 
-![Testing Stats](https://github.com/AdamZaghloul/learn-cicd/actions/workflows/ci/badge.svg)
+![Testing Stats](https://github.com/AdamZaghloul/learn-cicd/actions/workflows/ci.yml/badge.svg)
